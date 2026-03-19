@@ -1,0 +1,12 @@
+[submodule "platform/api-gateway"]
+	path = platform/api-gateway
+	url = https://github.com/akinthaC/api-gateway.git
+[submodule "platform/config-server"]
+	path = platform/config-server
+	url = https://github.com/akinthaC/config-server.git
+[submodule "platform/service-registry"]
+	path = platform/service-registry
+	url = https://github.com/akinthaC/service-registry.git
+[submodule "service/food-service"]
+	path = service/food-service
+	url = https://github.com/akinthaC/food-service.git
