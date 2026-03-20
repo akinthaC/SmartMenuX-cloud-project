@@ -13,3 +13,6 @@
 [submodule "service/customer-service"]
 	path = service/customer-service
 	url = https://github.com/akinthaC/customer-service.git
+[submodule "service/order-service"]
+	path = service/order-service
+	url = https://github.com/akinthaC/order-service.git
